@@ -1,0 +1,20 @@
+.btnLogin{
+    height: 3rem;
+    width: 13rem;
+    font-size: 1rem;
+    border-radius: 1.4rem;
+    color: white;
+    font-family: 'Roboto Slab';
+    font-weight: 400;
+
+}
+
+.btnColor1{
+    background-color: #000A5D;
+    border: 0;
+}
+.btnColor2{
+    background-color: #000A5D;
+    opacity: .3;
+    border: 0;
+}
