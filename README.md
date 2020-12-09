@@ -34,9 +34,9 @@ $ yarn start
 	Mobile
 <p align="center">
 	
-  <img width="360px" height="740px" src="src/imgs/mobile.png" alt="Login Mobile"></a>
+  <img width="360px" height="650px" src="src/imgs/mobile.png" alt="Login Mobile"></a>
 </p>
 
 ## Credits
 
-@Brunofarias
+<a href="https://www.instagram.com/brunofarias_dev/">@Brunofarias</a>
