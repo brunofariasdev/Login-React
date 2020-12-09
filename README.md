@@ -34,7 +34,7 @@ $ yarn start
 
 <p align="center">
 	Mobile
-  <img width="100%" height="100%" src="src/imgs/mobile.png" alt="Login Mobile"></a>
+  <img width="360px" height="740px" src="src/imgs/mobile.png" alt="Login Mobile"></a>
 </p>
 
 ## Credits
