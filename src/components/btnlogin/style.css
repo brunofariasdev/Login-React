@@ -1,20 +1,21 @@
 .btnLogin{
-    height: 3rem;
-    width: 13rem;
+    height: 2.7rem;
+    width: 12rem;
     font-size: 1rem;
     border-radius: 1.4rem;
     color: white;
     font-family: 'Roboto Slab';
     font-weight: 400;
+    margin: .4rem 0;
 
 }
 
 .btnColor1{
-    background-color: #000A5D;
+    background-color: #FEAD00;
     border: 0;
 }
-.btnColor2{
-    background-color: #000A5D;
-    opacity: .3;
-    border: 0;
+
+.btnColor1:hover{
+    background-color: #e29d08;
+    cursor: pointer;
 }

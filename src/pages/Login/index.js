@@ -16,8 +16,7 @@ const Login = () => {
                 <div className="login-right">
                     <h1>Acessar App</h1>
 
-                   <div className="inputGroup">
-                    <div className="loginInputEmail">
+                        <div className="loginInputEmail">
                             <MdEmail />
                             <input 
                                 type="text"
@@ -31,14 +30,13 @@ const Login = () => {
                                 type="password"
                                 placeholder="Digite sua Senha"
                             />
-                        </div>
-                   </div>
+                        </div>   
 
                    <BtnLogin type="foco" txt="Entrar"/>
 
-                    <h4>Não tenho conta!</h4>
+                    <h4>Você ainda não tem uma conta ? <a href="#">Cadastrar-se</a></h4>
 
-                   <BtnLogin txt="Criar Conta" />
+                   
                     
                 </div>
             

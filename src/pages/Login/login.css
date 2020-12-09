@@ -6,14 +6,24 @@
     width: 100%;
     color: white;
     flex-wrap: wrap;
-    background-color: #181717;
+    background-color: #2A363F;
+    padding: 0;
+    margin: 0;
     
 }
 
 .login-logo img{
-    width: 18.75;
-    height: 18.75;
+    width: 22rem;
+    height: 22rem;
 }
+
+@media (max-width: 405px){
+    .login-logo img{
+        
+        height: 18.75rem;
+    }
+}
+
 .login-right{
     display: flex;
     align-items: center;
@@ -39,9 +49,12 @@
     align-items: center;
     justify-content: center;
     height: 3.3rem;
-    width: 98%;
-    border-radius: .4rem;
-    padding: .3rem;
+    width: 18rem;
+    margin-left: -20px;
+    border: none;
+   
+
+
 }
 
 .loginInputEmail svg{
@@ -50,25 +63,23 @@
     padding: .3rem;
 
 }
-.inputGroup{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 13rem;
-}
+
+
 
 .loginInputEmail input{
     height: 2.3rem;
-    width: 14rem;
-    border-radius: 1rem;
-    margin: 1rem;
+    width: 15rem;
+    border-radius: .2rem;
     border: none;
     background-color: rgba(255, 255, 255, 0.836);
     color: black;
-    padding: .2rem;
     text-align: start;
     font-weight: bold;
     cursor: pointer;
 
 }
+
+.loginInputEmail input:focus{
+    border: 2px solid #2B42A0;
+}
+
