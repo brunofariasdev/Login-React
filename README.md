@@ -27,14 +27,14 @@ $ yarn start
 
 <p align="center">
 	Desktop
-  <img width="100%" height="100%" src="https://ibb.co/Zd673Gp" alt="Login Desktop"></a>
+  <img width="100%" height="100%" src="src/imgs/web.png" alt="Login Web"></a>
 </p>
 
 ---
 
 <p align="center">
 	Mobile
-  <img width="100%" height="100%" src="https://ibb.co/GvSLJ3p" alt="Login Mobile"></a>
+  <img width="100%" height="100%" src="src/imgs/mobile.png" alt="Login Mobile"></a>
 </p>
 
 ## Credits
