@@ -24,9 +24,9 @@ $ yarn start
 ```
 
 ## Intefaces:
-
-<p align="center">
 	Desktop
+<p align="center">
+	
   <img width="100%" height="100%" src="src/imgs/web.png" alt="Login Web"></a>
 </p>
 
