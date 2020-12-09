@@ -31,9 +31,9 @@ $ yarn start
 </p>
 
 ---
-
-<p align="center">
 	Mobile
+<p align="center">
+	
   <img width="360px" height="740px" src="src/imgs/mobile.png" alt="Login Mobile"></a>
 </p>
 
